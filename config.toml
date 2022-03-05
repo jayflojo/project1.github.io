@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/jayflojo/project1.github.io.git'
+languageCode = 'en-us'
+title = 'Bilifuster'
+theme = "ananke"
